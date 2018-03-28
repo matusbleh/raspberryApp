@@ -1,3 +1,4 @@
+/*
 package sk.tuke.waterconsumptionmeter;
 
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -12,3 +13,4 @@ public class HelloController {
     }
 
 }
+*/
